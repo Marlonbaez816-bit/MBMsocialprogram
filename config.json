@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "app_nombre": "MBM",
+  "app_version": "1.0",
+  "github_user": "Marlonbaez816-bit",
+  "github_repo": "MBMsocialprogram",
+  "modulos_base": [
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/chat.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/estados.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/perfil.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/tokens.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/ganancias.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/contactos.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/notificaciones.py",
+    "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/modulos_base/ajustes.py"
+  ],
+  "assets_base_url": "https://raw.githubusercontent.com/Marlonbaez816-bit/MBMsocialprogram/main/assets/"
+}
